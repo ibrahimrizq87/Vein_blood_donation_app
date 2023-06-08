@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086363446402",
+    "project_id": "vein-383ea",
+    "storage_bucket": "vein-383ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086363446402:android:b9e08514499dbc0b30589b",
+        "android_client_info": {
+          "package_name": "com.example.vein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086363446402-fds4jdcuh07ous0occ6854ca77p823ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjystDPn2cFVJ49UQQqGCFufPehnGu1tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086363446402-fds4jdcuh07ous0occ6854ca77p823ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

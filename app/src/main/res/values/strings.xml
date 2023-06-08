@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Vein</string>
+
+    <string-array name="spinnerItem">
+        <item></item>
+        <item> Assuit </item>
+        <item> Cairo </item>
+        <item> Alex </item>
+        <item> Giza </item>
+        <item> Minia </item>
+        <item> bany swaf </item>
+        <item> sohag </item>
+
+    </string-array>
+
+    <string-array name="person_types">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+
+    </string-array>
+</resources>
